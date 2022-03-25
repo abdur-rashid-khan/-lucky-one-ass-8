@@ -6,7 +6,6 @@
    padding-left: 1rem;
    background-color: rgb(60, 117, 167);
    margin-left: .4rem;
-   position: relative;
    border-radius: .4rem;
    -webkit-border-radius: .4rem;
    -moz-border-radius: .4rem;
@@ -17,4 +16,16 @@
    display: grid;
    grid-template-columns: repeat(3 , 1fr);
    grid-gap: 20px;
+}
+@media only screen and (max-width:800px) {
+   .all-products{
+      grid-template-columns: repeat(2 , 1fr);
+      text-align: center;
+   }
+}
+@media only screen and (max-width:500px) {
+   .all-products{
+      grid-template-columns: repeat(1 , 1fr);
+      text-align: center;
+   }
 }

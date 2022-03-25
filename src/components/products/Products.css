@@ -1,0 +1,20 @@
+.products-container{
+   display: grid ;
+   grid-template-columns: 4fr 1fr;
+}
+.cart-container{
+   padding-left: 1rem;
+   background-color: rgb(60, 117, 167);
+   margin-left: .4rem;
+   position: relative;
+   border-radius: .4rem;
+   -webkit-border-radius: .4rem;
+   -moz-border-radius: .4rem;
+   -ms-border-radius: .4rem;
+   -o-border-radius: .4rem;
+}
+.all-products{
+   display: grid;
+   grid-template-columns: repeat(3 , 1fr);
+   grid-gap: 20px;
+}

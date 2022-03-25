@@ -1,0 +1,121 @@
+[
+   {
+      "id": 1,
+      "strMeal": "Tamiya",
+      "strCategory": "Vegetarian",
+      "strArea": "Egyptian",
+      "img": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg"
+   },
+   {
+      "id": 2,
+      "strMeal": "Corba",
+      "strDrinkAlternate": null,
+      "strCategory": "Side",
+      "strArea": "Turkish",
+      "img": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg"
+   },
+   {
+      "id": 3,
+      "strMeal": "Timbits",
+      "strDrinkAlternate": null,
+      "strCategory": "Dessert",
+      "strArea": "Canadian",
+      "img": "https://www.themealdb.com/images/media/meals/txsupu1511815755.jpg"
+   },
+   {
+      "id": 4,
+      "strMeal": "Kafteji",
+      "strDrinkAlternate": null,
+      "strCategory": "Vegetarian",
+      "strArea": "Tunisian",
+      "img": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg"
+   },
+   {
+      "id": 5,
+      "strMeal": "Roti john",
+      "strDrinkAlternate": null,
+      "strCategory": "Beef",
+      "strArea": "Malaysian",
+      "img": "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg"
+   },
+   {
+      "id": 6,
+      "strMeal": "Lasagne",
+      "strDrinkAlternate": null,
+      "strCategory": "Pasta",
+      "strArea": "Italian",
+      "img": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg"
+   },
+   {
+      "id": 7,
+      "strMeal": "Timbits",
+      "strDrinkAlternate": null,
+      "strCategory": "Dessert",
+      "strArea": "Canadian",
+      "img": "https://www.themealdb.com/images/media/meals/txsupu1511815755.jpg"
+   },
+   {
+      "id": 8,
+      "strMeal": "Wontons",
+      "strDrinkAlternate": null,
+      "strCategory": "Pork",
+      "strArea": "Chinese",
+      "img": "https://www.themealdb.com/images/media/meals/1525876468.jpg"
+   },
+   {
+      "id": 9,
+      "strMeal": "Burek",
+      "strDrinkAlternate": null,
+      "strCategory": "Side",
+      "strArea": "Croatian",
+      "img": "https://www.themealdb.com/images/media/meals/tkxquw1628771028.jpg"
+   },
+   {
+      "id": 10,
+      "strMeal": "Kumpir",
+      "strDrinkAlternate": null,
+      "strCategory": "Side",
+      "strArea": "Turkish",
+      "img": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg"
+   },
+   {
+      "id": 11,
+      "strMeal": "Keleya Zaara",
+      "strDrinkAlternate": null,
+      "strCategory": "Lamb",
+      "strArea": "Tunisian",
+      "img": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg"
+   },
+   {
+      "id": 12,
+      "strMeal": "Szechuan Beef",
+      "strDrinkAlternate": null,
+      "strCategory": "Beef",
+      "strArea": "Chinese",
+      "img": "https://www.themealdb.com/images/media/meals/1529443236.jpg"
+   },
+   {
+      "id": 13,
+      "strMeal": "Home-made Mandazi",
+      "strDrinkAlternate": null,
+      "strCategory": "Breakfast",
+      "strArea": "Kenyan",
+      "img": "https://www.themealdb.com/images/media/meals/thazgm1555350962.jpg"
+   },
+   {
+      "id": 14,
+      "strMeal": "Koshari",
+      "strDrinkAlternate": null,
+      "strCategory": "Vegetarian",
+      "strArea": "Egyptian",
+      "img": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg"
+   },
+   {
+      "id": 15,
+      "strMeal": "Fish pie",
+      "strDrinkAlternate": null,
+      "strCategory": "Seafood",
+      "strArea": "British",
+      "img": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg"
+   }
+]

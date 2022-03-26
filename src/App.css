@@ -15,3 +15,7 @@ body{
   margin: auto;
   padding: 0rem .7rem;
 }
+.ans{
+  margin: 2rem 0rem;
+  display: inline-block;
+}

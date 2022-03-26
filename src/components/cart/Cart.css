@@ -1,6 +1,6 @@
 .cart-info{
    position: fixed;
-   color: #fff;
+   color: rgb(29, 29, 29);
 }
 .cart-info .cart-header{
    padding-top: 1.5rem;
@@ -12,7 +12,7 @@
    font-size: 1rem;
    width: 100%;
    padding: 5px 12px;
-   margin-top: 5rem;
+   margin-top: .5rem;
    color: #fff;
    border-radius: .2rem;
    -webkit-border-radius: .2rem;
@@ -44,4 +44,32 @@
 .Choses-icon{
    display: inline-block;
    padding-left: .5rem;
+}
+
+.cart-img{
+   display: flex;
+   align-items: center;
+   width: 50px;
+   height: 50px;
+}
+.cart-img  img{
+   width: 100%;
+   height: auto;
+   border-radius: .3rem;
+   -webkit-border-radius: .3rem;
+   -moz-border-radius: .3rem;
+   -ms-border-radius: .3rem;
+   -o-border-radius: .3rem;
+}
+.cart-img p {
+   padding-left: .5rem;
+   font-size: 1.1rem;
+}
+#x-icon{
+   margin-left: 1.5rem;
+   border: none;
+   font-size: 1.5rem;
+   background-color: transparent;
+   color: red;
+   cursor: pointer;
 }

@@ -4,6 +4,7 @@
       "foodName": "Tamiya",
       "price":120,
       "rating": 4.9,
+      "length":0,
       "img": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg"
    },
    {
@@ -11,6 +12,7 @@
       "foodName": "Corba",
       "price":100,
       "rating": 4.8,
+      "length":0,
       "img": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg"
    },
    {
@@ -18,6 +20,7 @@
       "foodName": "Chivito uruguayo",
       "price":150,
       "rating": 3.5,
+      "length":0,
       "img": "https://www.themealdb.com/images/media/meals/n7qnkb1630444129.jpg"
    },
    {
@@ -25,6 +28,7 @@
       "foodName": "Kafteji",
       "price":180,
       "rating": 4.8,
+      "length":0,
       "img": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg"
    },
    {
@@ -32,6 +36,7 @@
       "foodName": "Roti john",
       "price":200,
       "rating": 3.7,
+      "length":0,
       "img": "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg"
    },
    {
@@ -39,6 +44,7 @@
       "foodName": "Lasagne",
       "price":205,
       "rating": 3.9,
+      "length":0,
       "img": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg"
    },
    {
@@ -46,6 +52,7 @@
       "foodName": "Timbits",
       "price":130,
       "rating": 4.5,
+      "length":0,
       "img": "https://www.themealdb.com/images/media/meals/txsupu1511815755.jpg"
    },
    {
@@ -53,6 +60,7 @@
       "foodName": "Wontons",
       "price":112,
       "rating": 4.2,
+      "length":0,
       "img": "https://www.themealdb.com/images/media/meals/1525876468.jpg"
    },
    {
@@ -60,6 +68,7 @@
       "foodName": "Burek",
       "price":102,
       "rating": 4,
+      "length":0,
       "img": "https://www.themealdb.com/images/media/meals/tkxquw1628771028.jpg"
    },
    {
@@ -67,6 +76,7 @@
       "foodName": "Kumpir",
       "price":250,
       "rating": 3.8,
+      "length":0,
       "img": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg"
    },
    {
@@ -74,6 +84,7 @@
       "foodName": "Keleya Zaara",
       "price":190,
       "rating": 3,
+      "length":0,
       "img": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg"
    },
    {
@@ -81,6 +92,7 @@
       "foodName": "Szechuan Beef",
       "price":177,
       "rating": 2.9,
+      "length":0,
       "img": "https://www.themealdb.com/images/media/meals/1529443236.jpg"
    },
    {
@@ -88,6 +100,7 @@
       "foodName": "Home-made Mandazi",
       "price":300,
       "rating": 2.5,
+      "length":0,
       "img": "https://www.themealdb.com/images/media/meals/thazgm1555350962.jpg"
    },
    {
@@ -95,6 +108,7 @@
       "foodName": "Koshari",
       "price":255,
       "rating": 3.3,
+      "length":0,
       "img": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg"
    },
    {
@@ -102,6 +116,7 @@
       "foodName": "Fish pie",
       "price":133,
       "rating": 3,
+      "length":0,
       "img": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg"
    }
 ]

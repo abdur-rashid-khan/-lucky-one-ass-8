@@ -21,16 +21,12 @@ function App() {
         it can also be used in the server with Node.js</p>
         <p className='ans'> <strong> 2. Props bs state ??? : </strong> <br /> 
           <strong>props</strong>
-          <ol>
-            <li>props are read only</li>
-            <li>props con not be modified </li>
-          </ol>
+            <span>props are read only</span>
+            <span>props con not be modified </span>
           <br />
           <strong>state</strong>
-          <ol>
-            <li>state changes can be asynchronous</li>
-            <li>state can be modified . </li>
-          </ol>
+            <span>state changes can be asynchronous</span>
+            <span>state can be modified . </span>
         </p>
         <p className='ans'>
       <strong>How state work ?? </strong>

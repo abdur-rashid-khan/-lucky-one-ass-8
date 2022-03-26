@@ -3,6 +3,7 @@
    color: rgb(29, 29, 29);
    margin: auto;
    padding: 1px;
+   text-align: center;
 }
 .cart-info .cart-header{
    padding-top: 1.5rem;
@@ -72,4 +73,9 @@
    background-color: transparent;
    color: red;
    cursor: pointer;
+}
+@media only screen and (max-width:500px) {
+   .cart-info{
+      position: inherit;
+   }
 }

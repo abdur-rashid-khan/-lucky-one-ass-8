@@ -21,9 +21,12 @@ const Cart = ({data , ChosesBtn , clearBtn}) => {
                   <p className='Choses-icon'> <FontAwesomeIcon icon={faShoppingBag}></FontAwesomeIcon> </p>
                </button>
             </div>
+            <div className="cart-btn">
             <button className='Clear-btn' onClick={()=>clearBtn()}>Clear Product 
                <p className='Choses-icon'> <FontAwesomeIcon icon={faTrash} /> </p>
             </button>
+            </div>
+            
          </div>
       </div>
    );

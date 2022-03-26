@@ -10,7 +10,7 @@ body{
   color: #141d22;
 }
 .container{
-  width: 1200px;
+  max-width: 1200px;
   height: auto;
   margin: auto;
   padding: 0rem .7rem;

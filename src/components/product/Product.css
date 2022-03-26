@@ -8,7 +8,7 @@
    -o-border-radius: .3rem;
 }
 .product-img{
-   width: 300px;
+   width: 100%;
    height: auto;
    margin: auto;
 }

@@ -6,6 +6,7 @@ import './Products.css'
 const Products = () => {
    const [products , setProducts]=useState([]);
    const [cart , setCart]=useState([]);
+   // const [choses , setchoses]=useState([]);
    useEffect(()=>{
       fetch('products.json')
       .then(res => res.json())
@@ -15,7 +16,7 @@ const Products = () => {
    
    // add 
    const productAdd=(productId)=>{
-      let newProduct=-[];
+      let newProduct=[];
       const checking=products.find(products=>products.id === productId);
       if(checking.length){
          alert('This product selected');
@@ -28,9 +29,25 @@ const Products = () => {
          const rest=cart.filter(products=>products.id !== productId);
          checking.length=checking.length + 1;
          newProduct=[...rest,checking]
+         if(newProduct.length === 5){
+            alert('please try agin');
+            return;
+         }
       }
-      // console.log(newProduct)
       setCart(newProduct);
+      // 
+   }
+   // choses btn 
+   const chosesBtn = () =>{
+      if(cart.length > 0){
+         let id =Math.floor(Math.random() * cart.length);
+         let selected=cart[id];
+         setCart([selected])
+      }
+   }
+   // clearBtn
+   const clearBtn=()=>{
+      setCart([]);
    }
    return (
       <div className="products-container">
@@ -40,11 +57,7 @@ const Products = () => {
          }
          </div>
          <div className="cart-container">
-            <Cart data={cart}></Cart>
-            {/* {
-               cart.map(products=><Selected key={products.id} data={products}></Selected>)
-            } */}
-
+            <Cart data={cart} ChosesBtn={chosesBtn} clearBtn={clearBtn}></Cart>
          </div>
       </div>
    );

@@ -5,6 +5,7 @@
       "price":120,
       "rating": 4.9,
       "length":0,
+      "selected":false,
       "img": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg"
    },
    {
@@ -13,6 +14,7 @@
       "price":100,
       "rating": 4.8,
       "length":0,
+      "selected":false,
       "img": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg"
    },
    {
@@ -21,6 +23,7 @@
       "price":150,
       "rating": 3.5,
       "length":0,
+      "selected":false,
       "img": "https://www.themealdb.com/images/media/meals/n7qnkb1630444129.jpg"
    },
    {
@@ -29,6 +32,7 @@
       "price":180,
       "rating": 4.8,
       "length":0,
+      "selected":false,
       "img": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg"
    },
    {
@@ -37,6 +41,7 @@
       "price":200,
       "rating": 3.7,
       "length":0,
+      "selected":false,
       "img": "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg"
    },
    {
@@ -45,6 +50,7 @@
       "price":205,
       "rating": 3.9,
       "length":0,
+      "selected":false,
       "img": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg"
    },
    {
@@ -53,6 +59,7 @@
       "price":130,
       "rating": 4.5,
       "length":0,
+      "selected":false,
       "img": "https://www.themealdb.com/images/media/meals/txsupu1511815755.jpg"
    },
    {
@@ -61,6 +68,7 @@
       "price":112,
       "rating": 4.2,
       "length":0,
+      "selected":false,
       "img": "https://www.themealdb.com/images/media/meals/1525876468.jpg"
    },
    {
@@ -69,6 +77,7 @@
       "price":102,
       "rating": 4,
       "length":0,
+      "selected":false,
       "img": "https://www.themealdb.com/images/media/meals/tkxquw1628771028.jpg"
    },
    {
@@ -77,6 +86,7 @@
       "price":250,
       "rating": 3.8,
       "length":0,
+      "selected":false,
       "img": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg"
    },
    {
@@ -85,6 +95,7 @@
       "price":190,
       "rating": 3,
       "length":0,
+      "selected":false,
       "img": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg"
    },
    {
@@ -93,6 +104,7 @@
       "price":177,
       "rating": 2.9,
       "length":0,
+      "selected":false,
       "img": "https://www.themealdb.com/images/media/meals/1529443236.jpg"
    },
    {
@@ -101,6 +113,7 @@
       "price":300,
       "rating": 2.5,
       "length":0,
+      "selected":false,
       "img": "https://www.themealdb.com/images/media/meals/thazgm1555350962.jpg"
    },
    {
@@ -109,6 +122,7 @@
       "price":255,
       "rating": 3.3,
       "length":0,
+      "selected":false,
       "img": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg"
    },
    {
@@ -117,6 +131,7 @@
       "price":133,
       "rating": 3,
       "length":0,
+      "selected":false,
       "img": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg"
    }
 ]

@@ -17,7 +17,7 @@ const Cart = ({data , ChosesBtn , clearBtn}) => {
             </div>
             
             <div className="cart-btn">
-               <button className='Choses-btn' onClick={()=>ChosesBtn()}>Choses Product 
+               <button className='Choses-btn' onClick={()=>ChosesBtn()}> For You 
                   <p className='Choses-icon'> <FontAwesomeIcon icon={faShoppingBag}></FontAwesomeIcon> </p>
                </button>
             </div>

@@ -18,7 +18,7 @@ const Products = () => {
       let newProduct=[];
       const checking=products.find(products=>products.id === productId);
       if(checking.length){
-         alert('This product selected');
+         alert('This Product Already Selected');
          return;
       }
       if(!checking){
@@ -29,7 +29,7 @@ const Products = () => {
          checking.length=checking.length + 1;
          newProduct=[...rest,checking]
          if(newProduct.length === 5){
-            alert('please try agin');
+            alert('Not Allow Selected Five Items');
             return;
          }
       }
